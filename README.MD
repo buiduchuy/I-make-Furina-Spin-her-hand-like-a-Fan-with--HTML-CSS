@@ -1,4 +1,4 @@
-</h2> Hi guys, this is a first thing I uploaded on my way to learning how to make a web</h2>
+Hi guys, this is a first thing I uploaded on my way to learning how to make a web...
 this just a stoooopid thing that I made when I'm free and you know, it's not be perfect as I thought because the space between the Fan with a character need to using a margin , It's not consistent with another devices
 
 HTML: Hyper Text MakeUp Language
