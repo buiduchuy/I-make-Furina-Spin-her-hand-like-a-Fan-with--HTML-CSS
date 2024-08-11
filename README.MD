@@ -8,6 +8,9 @@ It's not hard as you thought, it's not stricted like another language
 CSS: cascading style sheet
 Yeah, it's simple like a make up when going out for presentation, the website presented without css kinna weird and it's like a website that has been in the past for a long time, the people nowaday wanna a pretty website for their own and they can customized the website like their imagine
 
-JS: Yes, that's the hardest thing about creating a website, it's respectful kinna that you can enjoy that, which stumbles me a lot. BTW If you can enjoy the fun of coding, you can get over it
+JS: Yes, that's the hardest thing about creating a website, I so surprised that you can enjoy that, which stumbles me a lot. BTW If you can enjoy the fun of coding, you can get over it
 
-I've heard of some frameworks like bootstrap, django, reactJS,... Kinna is useful, but you need to know about HTML and CSS before learning them, because it's just a tool that makes your coding easier, you have to know that you're in control of them, don't make them control you 
+I've heard of some frameworks like bootstrap, django, reactJS,... Kinna is useful, but you need to know about HTML and CSS before learning them, because it's just a tool that makes your coding easier
+
+Thanks for reading.
+Buiduchuy
